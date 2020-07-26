@@ -12,9 +12,24 @@ TUTORIAL DE INSTALACIÓN
 
 https://www.youtube.com/watch?v=uyWV6f8WIlc&feature=youtu.be
 
+Instalación Powerlevel10k link
+
+https://github.com/romkatv/powerlevel10k
+
+crear link simbolico de .zshrc
+rm .zshrc
+ln -s -f /home/usuario/.zshrc .zshrc 
+
+INSTALAR FZF
+
+https://github.com/junegunn/fzf
+
 COMPILAR XWINWRAP PARA TENER ESCRITORIO CON MOVIMIENTO
 
 https://github.com/Aaahh/xwinwrap
+
+xwinwrap -g 1920x1080 -ov -ni -s -nf -- gifview -w WID /full/file/path -a
+
 <img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200722-183703).jpg">
 <img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200712-165247).jpg">
 <img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200722-185052).jpg">
@@ -23,6 +38,4 @@ https://github.com/Aaahh/xwinwrap
 <img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200723-011218).jpg">
 
 
-Instalación Powerlevel10k link
 
-https://github.com/romkatv/powerlevel10k
