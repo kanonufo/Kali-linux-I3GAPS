@@ -8,6 +8,10 @@ LINK DE DESCARGA DE EL ARCHIVO ISO
 
 https://drive.google.com/file/d/1H5FJxCP6ZIvZneDPrR4wBXy2FBVKWzOc/view?usp=sharing
 
+TUTORIAL DE INSTALACIÓN 
+
+https://www.youtube.com/watch?v=uyWV6f8WIlc&feature=youtu.be
+
 COMPILAR XWINWRAP PARA TENER ESCRITORIO CON MOVIMIENTO
 
 https://github.com/Aaahh/xwinwrap
