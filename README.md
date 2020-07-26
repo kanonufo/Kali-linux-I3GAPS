@@ -9,3 +9,8 @@ https://drive.google.com/file/d/1H5FJxCP6ZIvZneDPrR4wBXy2FBVKWzOc/view?usp=shari
 
 
 <img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200722-183703).jpg">
+<img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200712-165247).jpg">
+<img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200722-185052).jpg">
+<img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200722-185347).jpg">
+<img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200723-011050).jpg">
+<img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200723-011218).jpg">
