@@ -8,7 +8,9 @@ LINK DE DESCARGA DE EL ARCHIVO ISO
 
 https://drive.google.com/file/d/1H5FJxCP6ZIvZneDPrR4wBXy2FBVKWzOc/view?usp=sharing
 
+COMPILAR XWINWRAP PARA TENER ESCRITORIO CON MOVIMIENTO
 
+https://github.com/Aaahh/xwinwrap
 <img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200722-183703).jpg">
 <img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200712-165247).jpg">
 <img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200722-185052).jpg">
