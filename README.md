@@ -6,9 +6,7 @@ CONTRASEÑA: 9311liza
 
 LINK DE DESCARGA DE EL ARCHIVO ISO
 
-https://drive.google.com/file/d/1H5FJxCP6ZIvZneDPrR4wBXy2FBVKWzOc/view?usp=sharing
-
-TUTORIAL DE INSTALACIÓN 
+https://drive.google.com/file/d/1H5FJxCP6ZIvZneDPrR4wBXy2FBVKWzOc/view?usp=drivesdkUTORIAL DE INSTALACIÓN 
 
 https://www.youtube.com/watch?v=uyWV6f8WIlc&feature=youtu.be
 
@@ -37,5 +35,5 @@ xwinwrap -g 1920x1080 -ov -ni -s -nf -- gifview -w WID /full/file/path -a
 <img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200723-011050).jpg">
 <img src="https://github.com/kanonufo/Kali-linux-I3GAPS/blob/master/Screenshot%20(20200723-011218).jpg">
 
-
+Kanon
 
